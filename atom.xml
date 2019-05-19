@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>BIN &#39;s Blog</title>
+  <title>BIN的博客</title>
   
-  
+  <subtitle>Your&#39;s better bring,cause I&#39;ll bring every I&#39;ve got it.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
