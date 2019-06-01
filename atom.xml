@@ -5,9 +5,9 @@
   <subtitle>You&#39;d better bring,cause I&#39;ll bring every I&#39;ve got it.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://liubin.xin/"/>
   <updated>2019-06-01T07:54:34.827Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://liubin.xin/</id>
   
   <author>
     <name>BIN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>实习经历</title>
-    <link href="http://yoursite.com/%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/"/>
-    <id>http://yoursite.com/实习/实习经历/</id>
+    <link href="http://liubin.xin/%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/"/>
+    <id>http://liubin.xin/实习/实习经历/</id>
     <published>2019-06-01T07:52:25.000Z</published>
     <updated>2019-06-01T07:54:34.827Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="实习" scheme="http://yoursite.com/categories/%E5%AE%9E%E4%B9%A0/"/>
+      <category term="实习" scheme="http://liubin.xin/categories/%E5%AE%9E%E4%B9%A0/"/>
     
     
-      <category term="实习" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+      <category term="实习" scheme="http://liubin.xin/tags/%E5%AE%9E%E4%B9%A0/"/>
     
   </entry>
   
