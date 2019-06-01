@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Funcategorized%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[实习经历]]></title>
+    <url>%2F%E5%AE%9E%E4%B9%A0%2F%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86%2F</url>
+    <content type="text"><![CDATA[这是我的第一篇正经的博客，就用来记录找实习的经历吧. 面试了许多公司，有大有小，有成功有失败，最终很幸运地拿到了华为的offer。]]></content>
+      <categories>
+        <category>实习</category>
+      </categories>
+      <tags>
+        <tag>实习</tag>
+      </tags>
   </entry>
 </search>
